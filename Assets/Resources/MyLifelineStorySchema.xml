@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<story>
+	<path>
+		<pathname></pathname>
+		<dialogs>
+			<dialog></dialog>
+		</dialogs>
+		<desitions>
+			<!-- Cada "desition" lleva a un nuevo path con el mismo nombre,  -->
+			<desition></desition>
+		</desitions>
+	</path>
+</story>

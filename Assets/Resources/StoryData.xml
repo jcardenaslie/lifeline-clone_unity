@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <path name="1">
+    <dialogs>
+      <dialog> bla bla bla 1.1</dialog>
+      <dialog> bla bla bla 1.2</dialog>
+      <dialog> bla bla bla 1.3</dialog>
+      <dialog> bla bla bla 1.4</dialog>
+      <dialog> bla bla bla 1.5</dialog>
+      <dialog> bla bla bla 1.6</dialog>
+      <dialog> bla bla bla 1.7</dialog>
+      <dialog> bla bla bla 1.8</dialog>
+    </dialogs>
+    <nextpaths>
+      <pathname>2</pathname>
+      <pathname>3</pathname>
+    </nextpaths>
+  </path>
+  <path name="2">
+    <dialogs>
+      <dialog> bla bla bla 2.1</dialog>
+      <dialog> bla bla bla 2.2</dialog>
+    </dialogs>
+    <nextpaths>
+      <pathname>4</pathname>
+      <pathname>5</pathname>
+    </nextpaths>
+  </path>
+  <path name="3">
+    <dialogs>
+      <dialog> bla bla bla 3.1</dialog>
+      <dialog> bla bla bla 3.2</dialog>
+    </dialogs>
+    <nextpaths>
+      <pathname>6</pathname>
+      <pathname>7</pathname>
+    </nextpaths>
+  </path><path name="4">
+    <dialogs>
+      <dialog> bla bla bla 4.1</dialog>
+      <dialog> bla bla bla 4.2</dialog>
+    </dialogs>
+    <nextpaths>
+      <pathname>4</pathname>
+      <pathname>5</pathname>
+    </nextpaths>
+  </path>
+  <path name="5">
+    <dialogs>
+      <dialog> bla bla bla 5.1</dialog>
+      <dialog> bla bla bla 5.2</dialog>
+    </dialogs>
+    <nextpaths>
+      <pathname>6</pathname>
+      <pathname>7</pathname>
+    </nextpaths>
+  </path>
+<path name="6">
+    <dialogs>
+      <dialog> bla bla bla 6.1</dialog>
+      <dialog> bla bla bla 6.2</dialog>
+    </dialogs>
+    <nextpaths>
+    </nextpaths>
+  </path>
+  <path name="7">
+    <dialogs>
+      <dialog> bla bla bla 7.1</dialog>
+      <dialog> bla bla bla 7.2</dialog>
+    </dialogs>
+    <nextpaths>
+    </nextpaths>
+  </path>
+</root>
